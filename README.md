@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manuelledezma687
 - 👀 I’m a QA Automation Engineer from Venezuela and I actually live in Buenos Aires.
-- 🌱 I'm currently studying backend in Python and Testing Automation under frameworks built in python.
-- 💞️ I’m looking to collaborate on Automation testing and new tecnologies from QA TESTING.
+- 🌱 Testing Automation under frameworks built in python, Java and Javascript.
+- 💞️ I’m looking to collaborate on Automation testing proyects and new tecnologies from QA TESTING.
 
 
 <!---
