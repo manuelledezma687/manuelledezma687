@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manuelledezma687
-- 👀 I’m a QA Automation Engineer and Backend developer, actually live in Buenos Aires.
+- 👀 I’m a Senior QA Automation Engineer, actually live in Barcelona.
 - 🌱 Testing Automation under frameworks built in python, Java and Javascript.
 
 
